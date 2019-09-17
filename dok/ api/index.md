@@ -5,7 +5,7 @@
 
 <!--introduced_in=v0.10.0-->
 
-* [About these Docs](documentation.html)
+* [About these Docs](google.com.html)
 * [Usage & Example](synopsis.html)
 
 <div class="line"></div>
